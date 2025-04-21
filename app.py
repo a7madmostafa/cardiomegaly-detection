@@ -6,7 +6,7 @@ import numpy as np
 import os
 
 # URL to download the model from Google Drive (replace with your file ID)
-model_url = "https://drive.google.com/uc?id=YOUR_FILE_ID"
+model_url = "https://drive.google.com/uc?id=1eWOmm28kKYHN2VFpijHv_YZZ2RFxWLsn"
 model_path = "best_model.keras"
 
 # Function to download the model from Google Drive
